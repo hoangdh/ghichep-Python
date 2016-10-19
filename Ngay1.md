@@ -52,7 +52,7 @@
     - Truy xuất giá trị cuối cùng của mảng x[-1]
 
 - List <Mảng động và có thể thay đổi giá trị bên trong>
-    - `x = [0, 2, 4, 5]
+    - `x = [0, 2, 4, 5]`
     - Thêm giá trị vào cuối mảng `x.append('4')`
     - Thêm giá trị vào vị trí nào đó `x.insert(vị-trí, giá-trị)`
     - Xóa phần tử trong mảng `del x[vị-trí]`
@@ -60,4 +60,10 @@
     - Xóa theo giá trị của phần tử `x.remove(giá-trị)`
     - Lặp lại giá trị trong mảng 3 lần `x = x * 3`
     - Gộp 2 mảng: `x=x+y`, 2 mảng có thể là mảng số, mảng string hoặc `x.extent(y)`
-    - Sắp 
+    - Sắp xếp giá trị các phần tử bên trong mảng `x.sort()`
+    - Đảo ngược các giá trị bên trong mảng `x.reverse()`
+    - LAB: https://repl.it/EA5d/1
+
+- Cắt chuỗi gán vào thành phần tử trong mảng: https://repl.it/EA5d/2
+
+CÒN TIẾP... 
